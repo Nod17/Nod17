@@ -1,4 +1,4 @@
-Student of IT (UFRN) and Computer Networks (IFRN)
+Computer Networks (IFRN)
 
 
 
