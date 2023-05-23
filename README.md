@@ -2,10 +2,6 @@ Computer Networks (IFRN)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nod17&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nod17)](https://github.com/Nod17/github-readme-stats)
-
 
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
